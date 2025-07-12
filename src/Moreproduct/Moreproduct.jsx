@@ -11,7 +11,7 @@ const Moreproduct = () => {
                Gyalu is a brand that believes in the power of jewelry to inspire confidence,
                elevate beauty, and create lasting memories.
         </p>
-        <button class="mt-4 px-6 py-2 border hover:scale-110 transition-transform duration-300  border-[#4B2C7A] text-[#4B2C7A] rounded hover:bg-[#4B2C7A] hover:text-white">
+        <button className="mt-4 px-6 py-2 border hover:scale-110 transition-transform duration-300  border-[#4B2C7A] text-[#4B2C7A] rounded hover:bg-[#4B2C7A] hover:text-white">
              Read More
             </button>
       </div>
